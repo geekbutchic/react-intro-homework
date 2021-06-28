@@ -1,0 +1,8 @@
+.body {
+  width: 1580px;
+  height: 100vh;
+}
+.body > div > p > img {
+  width: 500px;
+  height: 600px;
+}
